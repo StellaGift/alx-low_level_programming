@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *Description: 'print alphabets in lowercase except letter q and e'
- *return: always 0
+ *Description 'print alphabets except letter q and e'
+ *Return: Always 0
  */
 int main(void)
 {
