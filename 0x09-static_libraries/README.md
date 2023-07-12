@@ -1,7 +1,7 @@
 Static libary with files of different function.
 
-file: 0-isupper.c - checks for uppercase character.
-file: 0-isupper.o - a resultant object file of 0-isupper.c executable.
+file: 0-isupper.c - checks for uppercase character.\n
+file: 0-isupper.o - a resultant object file of 0-isupper.c executable.\n
 file: 0-memset.c - fills memory with a constant byte.
 file: 0-memset.o - a resultant object file of 0-memset.c executable.
 file: 0-strcat.c - concatenates two strings.
