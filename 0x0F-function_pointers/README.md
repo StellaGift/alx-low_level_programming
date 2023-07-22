@@ -14,3 +14,5 @@ file: 3-calc.h	file contains all the function prototypes and data structures use
 file: 3-op_functions.c	contains the functions for each arithmetic operation
 file: 3-get_op_func.c	contains the function that selects the correct function to perform the operation asked by the user
 file: 3-main.c contains main function only
+
+file: 100-main_opcodes.c - program that checks the number of parameters
