@@ -1,8 +1,8 @@
-Static libary with files of different function.
+# **Static libary with files of different function.**
 
-file: 0-isupper.c - checks for uppercase character.
+**file: 0-isupper.c** - checks for uppercase character.
 
-file: 0-isupper.o - a resultant object file of 0-isupper.c executable.
+**file: 0-isupper.o** - a resultant object file of 0-isupper.c executable.
 
 file: 0-memset.c - fills memory with a constant byte.
 
@@ -20,7 +20,6 @@ file: 1-isdigit.c - checks for a digit (0 through 9).
 
 file: 1-isdigit.o - a resultant object file of 1-isdigit.c executable.
 
-file: 1-memcpy.c  - copies memory area.
 
 file: 1-memcpy.o - a resultant object file of 1-memcpy.c executable.
 
