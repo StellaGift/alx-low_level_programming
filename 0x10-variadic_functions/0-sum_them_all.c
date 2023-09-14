@@ -2,7 +2,7 @@
 
 /**
  * sum_them_all - adds all the numbers
- * @n: The number of parameters passed
+ * @n: the number of parameters passed
  * Return: Always 0
  */
 
