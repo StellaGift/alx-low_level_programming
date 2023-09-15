@@ -1,8 +1,10 @@
 #include "variadic_functions.h"
+#include <stdio.h>
+#include <stdarg.h>
 
 /**
  * sum_them_all - adds all the numbers
- * @n: the number of parameters passed
+ * @n: The number of parameters passed
  * Return: Always 0
  */
 
