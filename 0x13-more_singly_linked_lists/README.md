@@ -1,4 +1,4 @@
-# **A Project on more singly linked lists
+# **A Project on more singly linked lists**
 
 <h2>Mandatory</h2>
 <h2>0. Print list</h2>
