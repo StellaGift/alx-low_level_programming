@@ -9,11 +9,7 @@ This directory contains all tasks, functions and learnings related to [doubly li
 
 ## `FILES`
 
-The files present in this directory includes
-
-
-#### `README.md`
-  - This file contains all the file names and concepts as it concerns this directory
+#### The files present in this directory includes:
 
 #### `lists.h`
   - This is the header file that contains several macros, function declarations etc required in the program
@@ -45,5 +41,11 @@ The files present in this directory includes
 #### `8-delete_dnodeint.c`
   - This file contains a function that deletes the node at index `index` of a `dlistint_t` linked list.
 
+#### `100-password`
+  - A program that finds the password for crackme4.
+
 #### `102-result`
   - This file finds the largest palindrome made from the product of two 3-digit numbers.
+
+#### `103-keygen.c`
+  - A program that writes a keygen for crackme5.
